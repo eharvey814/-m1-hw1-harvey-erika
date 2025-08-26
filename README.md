@@ -1,1 +1,2 @@
-# -m1-hw1-harvey-erika
+# My First Coding Assignment
+
